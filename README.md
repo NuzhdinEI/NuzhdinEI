@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Web3
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: no airdrops yet
+- ⚡ Fun fact: no airdrops yet, keep on working
 
 <!---
 NuzhdinEI/NuzhdinEI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
