@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on Web3. DeFi, Investments.
 - ⚡ Fun fact: no airdrops yet, keep on working. Never give up. Get rich or die trying. Father. love my wife, wanna visit Japan, Iceland, New Zeland, Chile
 Goals:
-- family cruize of boat 
+- family cruize of boat
+- emerald ring
+- rust on the car?
 
 <!---
 NuzhdinEI/NuzhdinEI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
