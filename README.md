@@ -8,6 +8,7 @@ Goals:
 - family cruize of boat
 - emerald ring
 - rust on the car?
+- by a 3 bed apartment till 2027
 
 <!---
 NuzhdinEI/NuzhdinEI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
