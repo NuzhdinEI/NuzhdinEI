@@ -9,6 +9,7 @@ Goals:
 - emerald ring
 - rust on the car?
 - by a 3 bed apartment till 2027
+- raise the salary in 2025 by 10%
 
 <!---
 NuzhdinEI/NuzhdinEI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
